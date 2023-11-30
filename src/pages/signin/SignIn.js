@@ -54,7 +54,7 @@ const SignIn = () => {
     >
       <Card w="628px" minH="516px" margin="auto" padding="40px">
         <Image
-          src={Constants.CODEMASTERS_LOGO}
+          src={window.location.origin + '/codemasters_logo.png'}
           alignSelf="center"
           width="290px"
           height="32px"
