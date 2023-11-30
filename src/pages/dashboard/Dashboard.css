@@ -1,0 +1,35 @@
+.footer {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.bodyText {
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+.bodyText1 {
+  color: #1849a9;
+}
+
+.bodyText2 {
+  color: #c11574;
+}
+
+.bodyText3 {
+  color: #b54708;
+}
+
+.bodyText4 {
+  color: #fff;
+}
+
+.INR {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.footer1 {
+  color: #fff;
+}
